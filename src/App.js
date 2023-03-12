@@ -1,21 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://docs.google.com/spreadsheets/d/1B4AOIqaAV22N82Tros9BQJ5_TM3Tisd-YPdci8vDcSU/edit#gid=0"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Frequency Histogram
         </a>
       </header>
     </div>
